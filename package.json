@@ -1,0 +1,8 @@
+{
+  "name": "react-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Makrau/react-ativity.git",
+  "author": "makrau <iago006@hotmail.com>",
+  "license": "MIT"
+}
