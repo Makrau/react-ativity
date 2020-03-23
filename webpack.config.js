@@ -6,7 +6,10 @@ module.exports = {
     path: path.resolve(__dirname, 'public'),
     filename: 'bundle.js',
   },
-  moduke: {
+  devServer: {
+    contentBase: path.resolve(__dirname, 'public'),
+  },
+  module: {
     rules: [
       {
         test: /\.js$/,
